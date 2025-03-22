@@ -1,5 +1,5 @@
 The script has 25x25 grid.
-It runs only single glider pattern.
+It runs only glider pattern.
 
 Clone this repository:
 
